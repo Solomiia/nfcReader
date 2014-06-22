@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="2530.166666666666" y="3771.5">com.example.myapplication5.app.NFCReader.NfcReaferActivity</node>
+    <node x="7248.868452380952" y="3704.5">com.example.myapplication5.app.TakePicture</node>
+    <node x="3478.7511250654115" y="3452.0">BussinessLogic.ParsingPhoto.Carousel.Carousel</node>
+    <node x="0.0" y="5183.0">BussinessLogic.Common.SortClass</node>
+    <node x="394.0" y="1546.0">BussinessLogic.GPS.AddressToLocationConverter</node>
+    <node x="5412.552092846586" y="199.0">Models.TechTypes</node>
+    <node x="2597.1261250654115" y="2944.5">com.example.myapplication5.app.NFCReader.TechnicalInformationActivity</node>
+    <node x="4434.885426179919" y="166.0">Models.TagDetails</node>
+    <node x="5546.739592846585" y="2999.5">BussinessLogic.NFC.NdefReader.NdefReaderTask</node>
+    <node x="2566.5" y="4836.0">com.example.myapplication5.app.Carousel.CarouselActivity</node>
+    <node x="6055.96369047619" y="2977.5">BussinessLogic.NFC.ImplementationPart.TagWriterActions.TagWriterAction</node>
+    <node x="2332.1261250654115" y="2966.5">com.example.myapplication5.app.NFCReader.TagDetailsActivity</node>
+    <node x="7608.047023809523" y="1546.0">BussinessLogic.Abstract.ICameraPreview</node>
+    <node x="4567.0" y="4667.0">BussinessLogic.ParsingPhoto.Wait</node>
+    <node x="5140.0" y="4667.0">BussinessLogic.Abstract.IExcelTask</node>
+    <node x="6414.839960631122" y="4359.5">com.example.myapplication5.app.ReceivingData</node>
+    <node x="6034.96369047619" y="3771.5">BussinessLogic.NFC.ImplementationPart.NFCWriter</node>
+    <node x="0.0" y="4667.0">BussinessLogic.ParsingPhoto.Carousel.CarouselItem</node>
+    <node x="1116.3854261799192" y="2988.5">BussinessLogic.GPS.GetAddressTask</node>
+    <node x="0.0" y="2955.5">Models.Atmosphera</node>
+    <node x="914.0" y="5183.0">BussinessLogic.Common.ActionBarfolder.ActionBarClass</node>
+    <node x="1865.0625" y="1413.0">com.example.myapplication5.app.NFCReader.ListViewAdapter</node>
+    <node x="4965.875" y="1546.0">BussinessLogic.Abstract.IAsyncTask</node>
+    <node x="942.0" y="3583.5">BussinessLogic.GPS.GeoLocator</node>
+    <node x="7029.385426179919" y="1513.0">Models.RectangleParameters</node>
+    <node x="497.0" y="5183.0">BussinessLogic.NFC.Mifare.MifareUltralightReaderTask</node>
+    <node x="265.0" y="5183.0">BussinessLogic.Abstract.SdkConstant</node>
+    <node x="602.0" y="4946.0">BussinessLogic.Common.NavDrawer.NavDrawerListAdapter</node>
+    <node x="1553.0" y="4791.0">Models.SettingsModel</node>
+    <node x="3788.0" y="4667.0">BussinessLogic.Common.SwipeDetector</node>
+    <node x="6941.385426179919" y="3011.0">BussinessLogic.ParsingPhoto.FilterImage</node>
+    <node x="4195.885426179919" y="155.0">Models.NdefMessageInformation</node>
+    <node x="5985.385426179919" y="1358.0">BussinessLogic.NFC.ImplementationPart.TagWriterActions.SettingsAction</node>
+    <node x="3503.0" y="4667.0">com.example.myapplication5.app.DashboardLayout</node>
+    <node x="4313.0" y="4667.0">com.example.myapplication5.app.NdefMessageParser</node>
+    <node x="806.4943257104878" y="4283.0">com.example.myapplication5.app.MapLocator.LocatorActivity</node>
+    <node x="238.4000000000001" y="3726.5">BussinessLogic.Common.ExcelReader</node>
+    <node x="2491.0" y="4667.0">com.example.myapplication5.app.Carousel.CarouselImageView</node>
+    <node x="1539.0" y="2966.5">com.example.myapplication5.app.NFCReader.NdefMessageInformationActivity</node>
+    <node x="4699.885426179919" y="2955.5">BussinessLogic.SqlLiteHelper.SqlImplementation</node>
+    <node x="5681.885426179919" y="0.0">BussinessLogic.Common.DataHelper</node>
+    <node x="3189.0" y="4667.0">com.example.myapplication5.app.MapLocator.MapFragmentClass</node>
+    <node x="312.51042617991925" y="199.0">Models.Location</node>
+    <node x="2600.3749999999995" y="742.0">BussinessLogic.ParsingPhoto.Carousel.CarouselAdapter</node>
+    <node x="268.0" y="2966.0">BussinessLogic.Common.ExcelWriter</node>
+    <node x="4059.0" y="4667.0">BussinessLogic.NFC.NdefReader.NdefMessageParser</node>
+    <node x="675.5" y="4667.0">BussinessLogic.Common.NavDrawer.NavDrawerItem</node>
+    <node x="1102.0" y="4667.0">BussinessLogic.ParsingPhoto.Carousel.Rotator</node>
+    <node x="5103.885426179919" y="3782.5">com.example.myapplication5.app.PictureReceiver</node>
+    <node x="719.0" y="5183.0">com.example.myapplication5.app.MapLocator.OfflineLocatorActivity</node>
+    <node x="6495.385426179919" y="2867.5">com.example.myapplication5.app.TouchView</node>
+    <node x="4802.885426179919" y="3760.5">com.example.myapplication5.app.MainActivity</node>
+    <node x="3167.0011250654115" y="2702.0">BussinessLogic.ParsingPhoto.Carousel.CarouselSpinner</node>
+    <node x="5691.297023809523" y="3749.0">BussinessLogic.NFC.ImplementationPart.NFCReader</node>
+    <node x="4759.0" y="4667.0">BussinessLogic.Abstract.ParsedNdefRecord</node>
+    <node x="2049.0" y="4667.0">BussinessLogic.ParsingPhoto.Preview</node>
+    <node x="5154.875" y="1480.0">Models.TagInformation</node>
+    <node x="675.0" y="1491.0">Models.TagTechInfo</node>
+    <node x="4471.875" y="1369.0">BussinessLogic.SqlLiteHelper.MySqlLiteHelper</node>
+    <node x="7301.385426179919" y="2878.5">com.example.myapplication5.app.Preview</node>
+    <node x="5739.739592846585" y="2977.5">BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask</node>
+    <node x="1705.0" y="4667.0">Models.MobileSettingsModel</node>
+    <node x="2074.1261250654115" y="2966.0">com.example.myapplication5.app.NFCReader.MyTabsListener</node>
+    <node x="2807.0" y="4667.0">BussinessLogic.Common.ArrayAdapterSearchView</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.example.myapplication5.app.NFCReader.TagDetailsActivity" target="BussinessLogic.Common.DataHelper">
+      <point x="91.875" y="-70.5" />
+      <point x="2546.5011250654115" y="2582.0" />
+      <point x="2458.1354261799192" y="2582.0" />
+      <point x="2458.1354261799192" y="682.0" />
+      <point x="5801.017005127287" y="682.0" />
+      <point x="-132.36842105263167" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.NFCReader" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="-96.0" y="-48.5" />
+      <point x="5707.297023809523" y="3422.0" />
+      <point x="5426.302092846585" y="3422.0" />
+      <point x="5426.302092846585" y="2482.0" />
+      <point x="5069.152777777777" y="2482.0" />
+      <point x="18.777777777777374" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MapLocator.LocatorActivity" target="BussinessLogic.Common.DataHelper">
+      <point x="91.3125" y="-169.5" />
+      <point x="1141.3068257104878" y="4243.0" />
+      <point x="1517.5" y="4243.0" />
+      <point x="1517.5" y="652.0" />
+      <point x="5721.595952495708" y="652.0" />
+      <point x="-211.78947368421086" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.GPS.AddressToLocationConverter" target="Models.Location">
+      <point x="0.0" y="-26.0" />
+      <point x="524.5" y="722.0" />
+      <point x="464.61042617991916" y="722.0" />
+      <point x="67.60000000000002" y="37.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask" target="Models.TechTypes">
+      <point x="17.5" y="-59.5" />
+      <point x="5862.239592846585" y="2682.0" />
+      <point x="5874.239592846585" y="2682.0" />
+      <point x="5874.239592846585" y="492.0" />
+      <point x="5537.652092846586" y="492.0" />
+      <point x="55.600000000000364" y="37.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.SqlImplementation" target="Models.NdefMessageInformation">
+      <point x="-141.16666666666697" y="-81.5" />
+      <point x="4712.718759513252" y="2602.0" />
+      <point x="4280.875" y="2602.0" />
+      <point x="4280.875" y="552.0" />
+      <point x="4305.385426179919" y="552.0" />
+      <point x="0.0" y="81.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.TakePicture" target="BussinessLogic.Common.DataHelper">
+      <point x="48.285714285714675" y="-93.0" />
+      <point x="7466.154166666666" y="3392.0" />
+      <point x="7290.885426179919" y="3392.0" />
+      <point x="7290.885426179919" y="672.0" />
+      <point x="6171.648584074655" y="672.0" />
+      <point x="238.26315789473665" y="236.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MapLocator.LocatorActivity" target="BussinessLogic.Common.ExcelReader">
+      <point x="-152.1875" y="-169.5" />
+      <point x="897.8068257104878" y="4253.0" />
+      <point x="347.4000000000001" y="4253.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MapLocator.LocatorActivity" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="213.0625" y="-169.5" />
+      <point x="1263.0568257104878" y="4263.0" />
+      <point x="2063.6261250654115" y="4263.0" />
+      <point x="2063.6261250654115" y="2642.0" />
+      <point x="5031.597222222223" y="2642.0" />
+      <point x="-18.777777777777374" y="26.0" />
+    </edge>
+    <edge source="BussinessLogic.ParsingPhoto.Carousel.Carousel" target="BussinessLogic.ParsingPhoto.Carousel.CarouselSpinner">
+      <point x="-244.33333333333348" y="-345.5" />
+      <point x="3600.9177917320785" y="3392.0" />
+      <point x="3543.5011250654115" y="3392.0" />
+      <point x="0.0" y="335.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask" target="BussinessLogic.Common.DataHelper">
+      <point x="52.5" y="-59.5" />
+      <point x="5897.239592846585" y="2672.0" />
+      <point x="5933.385426179919" y="2672.0" />
+      <point x="0.0" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.NFCReader" target="BussinessLogic.Common.DataHelper">
+      <point x="64.0" y="-48.5" />
+      <point x="5867.297023809523" y="3422.0" />
+      <point x="5963.885426179919" y="3422.0" />
+      <point x="5963.885426179919" y="712.0" />
+      <point x="5986.332794600971" y="712.0" />
+      <point x="52.94736842105249" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.GPS.GeoLocator" target="BussinessLogic.GPS.GetAddressTask">
+      <point x="-70.625" y="-214.0" />
+      <point x="1153.875" y="3432.0" />
+      <point x="1262.6354261799192" y="3432.0" />
+      <point x="48.75" y="48.5" />
+    </edge>
+    <edge source="Models.SettingsModel" target="Models.MobileSettingsModel">
+      <point x="0.0" y="-81.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.TechnicalInformationActivity" target="BussinessLogic.Common.DataHelper">
+      <point x="-33.625" y="-92.5" />
+      <point x="2698.0011250654115" y="2562.0" />
+      <point x="2589.875" y="2562.0" />
+      <point x="2589.875" y="692.0" />
+      <point x="5827.490689337814" y="692.0" />
+      <point x="-105.89473684210498" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.SqlImplementation" target="BussinessLogic.Common.DataHelper">
+      <point x="38.5" y="-81.5" />
+      <point x="4892.385426179919" y="2532.0" />
+      <point x="4461.375" y="2532.0" />
+      <point x="4461.375" y="712.0" />
+      <point x="5880.438057758866" y="712.0" />
+      <point x="-52.94736842105249" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.NFCWriter" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="-60.0" y="-26.0" />
+      <point x="6064.96369047619" y="3432.0" />
+      <point x="6045.46369047619" y="3432.0" />
+      <point x="6045.46369047619" y="2422.0" />
+      <point x="5125.486111111111" y="2422.0" />
+      <point x="75.11111111111131" y="26.0" />
+    </edge>
+    <edge source="BussinessLogic.GPS.GetAddressTask" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="0.0" y="-48.5" />
+      <point x="1213.8854261799192" y="2612.0" />
+      <point x="4975.263888888889" y="2612.0" />
+      <point x="-75.11111111111131" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NfcReaferActivity" target="com.example.myapplication5.app.NFCReader.MyTabsListener">
+      <point x="-40.0" y="-26.0" />
+      <point x="2570.166666666666" y="3422.0" />
+      <point x="2193.1261250654115" y="3422.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.NFCReader" target="BussinessLogic.NFC.NdefReader.NdefReaderTask">
+      <point x="-32.0" y="-48.5" />
+      <point x="5771.297023809523" y="3402.0" />
+      <point x="5676.489592846585" y="3402.0" />
+      <point x="43.25" y="37.5" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="BussinessLogic.Common.DataHelper">
+      <point x="72.92307692307713" y="-93.0" />
+      <point x="6645.763037554199" y="4173.0" />
+      <point x="6473.885426179919" y="4173.0" />
+      <point x="6473.885426179919" y="702.0" />
+      <point x="6092.227531443076" y="702.0" />
+      <point x="158.84210526315746" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.NdefReader.NdefReaderTask" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="-64.875" y="-37.5" />
+      <point x="5568.364592846585" y="2462.0" />
+      <point x="5087.930555555555" y="2462.0" />
+      <point x="37.55555555555566" y="26.0" />
+    </edge>
+    <edge source="BussinessLogic.Common.ExcelWriter" target="BussinessLogic.GPS.AddressToLocationConverter">
+      <point x="42.75" y="-71.0" />
+      <point x="481.75" y="2682.0" />
+      <point x="459.25" y="2682.0" />
+      <point x="-65.25" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.Preview" target="BussinessLogic.Abstract.ICameraPreview">
+      <point x="0.0" y="-158.5" />
+      <point x="7529.885426179919" y="2682.0" />
+      <point x="7650.297023809523" y="2682.0" />
+      <point x="-42.25" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NfcReaferActivity" target="com.example.myapplication5.app.NFCReader.TechnicalInformationActivity">
+      <point x="13.333333333333485" y="-26.0" />
+      <point x="2623.4999999999995" y="3392.0" />
+      <point x="2731.6261250654115" y="3392.0" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MapLocator.LocatorActivity" target="BussinessLogic.GPS.GeoLocator">
+      <point x="30.4375" y="-169.5" />
+      <point x="1080.4318257104878" y="4233.0" />
+      <point x="1365.75" y="4233.0" />
+      <point x="141.25" y="214.0" />
+    </edge>
+    <edge source="BussinessLogic.Common.ExcelReader" target="Models.Location">
+      <point x="0.0" y="-71.0" />
+      <point x="347.4000000000001" y="3402.0" />
+      <point x="257.5" y="3402.0" />
+      <point x="257.5" y="722.0" />
+      <point x="363.21042617991907" y="722.0" />
+      <point x="-33.80000000000018" y="37.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.TagDetailsActivity" target="Models.TagDetails">
+      <point x="-30.625" y="-70.5" />
+      <point x="2424.0011250654115" y="2602.0" />
+      <point x="2391.25" y="2602.0" />
+      <point x="2391.25" y="572.0" />
+      <point x="4477.528283322776" y="572.0" />
+      <point x="-56.85714285714312" y="70.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.TakePicture" target="BussinessLogic.ParsingPhoto.FilterImage">
+      <point x="-48.285714285714675" y="-93.0" />
+      <point x="7369.582738095237" y="3412.0" />
+      <point x="7187.385426179919" y="3412.0" />
+      <point x="82.0" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NdefMessageInformationActivity" target="BussinessLogic.Common.DataHelper">
+      <point x="50.75" y="-70.5" />
+      <point x="1792.75" y="2582.0" />
+      <point x="1701.3854261799192" y="2582.0" />
+      <point x="1701.3854261799192" y="662.0" />
+      <point x="5748.069636706235" y="662.0" />
+      <point x="-185.31578947368416" y="236.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask" target="Models.TagDetails">
+      <point x="-17.5" y="-59.5" />
+      <point x="5827.239592846585" y="2672.0" />
+      <point x="5863.239592846585" y="2672.0" />
+      <point x="5863.239592846585" y="502.0" />
+      <point x="4619.6711404656335" y="502.0" />
+      <point x="85.28571428571468" y="70.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.TagDetailsActivity" target="com.example.myapplication5.app.NFCReader.ListViewAdapter">
+      <point x="-91.875" y="-70.5" />
+      <point x="2362.7511250654115" y="2602.0" />
+      <point x="2101.3125" y="2602.0" />
+      <point x="47.25" y="159.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.NdefReader.NdefReaderTask" target="Models.NdefMessageInformation">
+      <point x="21.625" y="-37.5" />
+      <point x="5654.864592846585" y="2682.0" />
+      <point x="5670.989592846585" y="2682.0" />
+      <point x="5670.989592846585" y="522.0" />
+      <point x="4399.242569037062" y="522.0" />
+      <point x="93.85714285714312" y="81.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.TechnicalInformationActivity" target="Models.TagInformation">
+      <point x="100.875" y="-92.5" />
+      <point x="2832.5011250654115" y="2662.0" />
+      <point x="5206.089285714284" y="2662.0" />
+      <point x="-68.28571428571468" y="92.0" />
+    </edge>
+    <edge source="BussinessLogic.ParsingPhoto.Carousel.Carousel" target="BussinessLogic.SqlLiteHelper.SqlImplementation">
+      <point x="0.0" y="-345.5" />
+      <point x="3845.2511250654115" y="3422.0" />
+      <point x="4796.135426179919" y="3422.0" />
+      <point x="-57.75" y="81.5" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NfcReaferActivity" target="com.example.myapplication5.app.NFCReader.TagDetailsActivity">
+      <point x="-13.333333333333485" y="-26.0" />
+      <point x="2596.8333333333326" y="3412.0" />
+      <point x="2454.6261250654115" y="3412.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NfcReaferActivity" target="com.example.myapplication5.app.NFCReader.NdefMessageInformationActivity">
+      <point x="-66.66666666666652" y="-26.0" />
+      <point x="2543.4999999999995" y="3432.0" />
+      <point x="1742.0" y="3432.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="BussinessLogic.ParsingPhoto.Carousel.CarouselSpinner" target="BussinessLogic.ParsingPhoto.Carousel.CarouselAdapter">
+      <point x="0.0" y="-335.0" />
+      <point x="3543.5011250654115" y="2602.0" />
+      <point x="3435.3749999999995" y="2602.0" />
+      <point x="0.0" y="830.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="BussinessLogic.NFC.ImplementationPart.NFCReader">
+      <point x="-48.615384615384755" y="-93.0" />
+      <point x="6524.2245760157375" y="4223.0" />
+      <point x="5859.297023809523" y="4223.0" />
+      <point x="56.0" y="48.5" />
+    </edge>
+    <edge source="Models.TagInformation" target="Models.TagDetails">
+      <point x="0.0" y="-92.0" />
+      <point x="5274.375" y="532.0" />
+      <point x="4591.242569037062" y="532.0" />
+      <point x="56.85714285714312" y="70.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MainActivity" target="BussinessLogic.SqlLiteHelper.SqlImplementation">
+      <point x="-70.25" y="-37.0" />
+      <point x="19.25" y="81.5" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.TagWriterActions.SettingsAction" target="BussinessLogic.Common.DataHelper">
+      <point x="-119.5" y="-214.0" />
+      <point x="6104.885426179919" y="722.0" />
+      <point x="6039.280163022024" y="722.0" />
+      <point x="105.89473684210498" y="236.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="-97.23076923076951" y="-93.0" />
+      <point x="6475.609191400353" y="4243.0" />
+      <point x="5407.552092846585" y="4243.0" />
+      <point x="5407.552092846585" y="2492.0" />
+      <point x="5050.375" y="2492.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.PictureReceiver" target="Models.TagInformation">
+      <point x="43.125" y="-15.0" />
+      <point x="5204.510426179919" y="3432.0" />
+      <point x="5437.302092846585" y="3432.0" />
+      <point x="5437.302092846585" y="2472.0" />
+      <point x="5308.517857142857" y="2472.0" />
+      <point x="34.14285714285688" y="92.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.SqlImplementation" target="Models.TagInformation">
+      <point x="115.5" y="-81.5" />
+      <point x="4969.385426179919" y="2672.0" />
+      <point x="5240.232142857143" y="2672.0" />
+      <point x="-34.14285714285688" y="92.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.TakePicture" target="com.example.myapplication5.app.Preview">
+      <point x="96.57142857142844" y="-93.0" />
+      <point x="7514.43988095238" y="3432.0" />
+      <point x="7529.885426179919" y="3432.0" />
+      <point x="0.0" y="158.5" />
+    </edge>
+    <edge source="BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="-87.5" y="-59.5" />
+      <point x="5757.239592846585" y="2442.0" />
+      <point x="5106.708333333332" y="2442.0" />
+      <point x="56.33333333333303" y="26.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.SqlImplementation" target="Models.TagDetails">
+      <point x="-64.16666666666697" y="-81.5" />
+      <point x="4789.718759513252" y="2572.0" />
+      <point x="4417.375" y="2572.0" />
+      <point x="4417.375" y="602.0" />
+      <point x="4562.81399760849" y="602.0" />
+      <point x="28.42857142857156" y="70.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.SqlImplementation" target="Models.TechTypes">
+      <point x="-12.83333333333303" y="-81.5" />
+      <point x="4841.052092846586" y="2552.0" />
+      <point x="4439.375" y="2552.0" />
+      <point x="4439.375" y="622.0" />
+      <point x="5454.252092846586" y="622.0" />
+      <point x="-27.800000000000182" y="37.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.TechnicalInformationActivity" target="com.example.myapplication5.app.NFCReader.ListViewAdapter">
+      <point x="-100.875" y="-92.5" />
+      <point x="2630.7511250654115" y="2572.0" />
+      <point x="2195.8125" y="2572.0" />
+      <point x="141.75" y="159.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="BussinessLogic.NFC.ImplementationPart.NFCWriter">
+      <point x="-24.307692307692378" y="-93.0" />
+      <point x="6548.53226832343" y="4213.0" />
+      <point x="6079.96369047619" y="4213.0" />
+      <point x="-45.0" y="26.0" />
+    </edge>
+    <edge source="BussinessLogic.GPS.GeoLocator" target="BussinessLogic.Abstract.IAsyncTask">
+      <point x="70.625" y="-214.0" />
+      <point x="1295.125" y="3432.0" />
+      <point x="1321.8854261799192" y="3432.0" />
+      <point x="1321.8854261799192" y="2622.0" />
+      <point x="4994.041666666666" y="2622.0" />
+      <point x="-56.33333333333303" y="26.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NdefMessageInformationActivity" target="Models.NdefMessageInformation">
+      <point x="-50.75" y="-70.5" />
+      <point x="1690.3854261799192" y="552.0" />
+      <point x="4274.099711894204" y="552.0" />
+      <point x="-31.285714285714675" y="81.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.NFCReader" target="BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask">
+      <point x="32.0" y="-48.5" />
+      <point x="5835.297023809523" y="3412.0" />
+      <point x="5897.239592846585" y="3412.0" />
+      <point x="52.5" y="59.5" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="com.example.myapplication5.app.TakePicture">
+      <point x="145.84615384615427" y="-93.0" />
+      <point x="6718.6861144772765" y="4263.0" />
+      <point x="7502.368452380952" y="4263.0" />
+      <point x="84.5" y="93.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.ListViewAdapter" target="BussinessLogic.Common.DataHelper">
+      <point x="0.0" y="-159.0" />
+      <point x="2054.0625" y="672.0" />
+      <point x="5774.543320916761" y="672.0" />
+      <point x="-158.84210526315746" y="236.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MapLocator.LocatorActivity" target="com.example.myapplication5.app.NFCReader.ListViewAdapter">
+      <point x="152.1875" y="-169.5" />
+      <point x="1202.1818257104878" y="4253.0" />
+      <point x="1528.5" y="4253.0" />
+      <point x="1528.5" y="2592.0" />
+      <point x="1912.3125" y="2592.0" />
+      <point x="-141.75" y="159.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.NFCWriter" target="BussinessLogic.NFC.ImplementationPart.TagWriterActions.TagWriterAction">
+      <point x="0.0" y="-26.0" />
+      <point x="6124.96369047619" y="3432.0" />
+      <point x="6105.46369047619" y="3432.0" />
+      <point x="-49.5" y="59.5" />
+    </edge>
+    <edge source="BussinessLogic.NFC.NdefReader.NdefReaderTask" target="Models.TagInformation">
+      <point x="-21.625" y="-37.5" />
+      <point x="5611.614592846585" y="2452.0" />
+      <point x="5342.660714285714" y="2452.0" />
+      <point x="68.28571428571468" y="92.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.PictureReceiver" target="BussinessLogic.SqlLiteHelper.MySqlLiteHelper">
+      <point x="14.375" y="-15.0" />
+      <point x="5175.760426179919" y="2502.0" />
+      <point x="4866.875" y="2502.0" />
+      <point x="158.0" y="203.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NfcReaferActivity" target="BussinessLogic.SqlLiteHelper.SqlImplementation">
+      <point x="66.66666666666652" y="-26.0" />
+      <point x="2676.8333333333326" y="3412.0" />
+      <point x="4757.635426179919" y="3412.0" />
+      <point x="-96.25" y="81.5" />
+    </edge>
+    <edge source="BussinessLogic.Common.ExcelReader" target="Models.Atmosphera">
+      <point x="-87.19999999999993" y="-71.0" />
+      <point x="260.2000000000003" y="3422.0" />
+      <point x="123.5" y="3422.0" />
+      <point x="-1.4210854715202004E-14" y="81.5" />
+    </edge>
+    <edge source="com.example.myapplication5.app.NFCReader.NdefMessageInformationActivity" target="com.example.myapplication5.app.NFCReader.ListViewAdapter">
+      <point x="152.25" y="-70.5" />
+      <point x="1894.25" y="2602.0" />
+      <point x="2006.8125" y="2602.0" />
+      <point x="-47.25" y="159.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="com.example.myapplication5.app.MainActivity">
+      <point x="-121.53846153846098" y="-93.0" />
+      <point x="6451.301499092661" y="4253.0" />
+      <point x="5013.635426179919" y="4253.0" />
+      <point x="70.25" y="37.0" />
+    </edge>
+    <edge source="Models.TagTechInfo" target="Models.NdefMessageInformation">
+      <point x="-61.5" y="-81.0" />
+      <point x="736.5" y="532.0" />
+      <point x="4211.528283322776" y="532.0" />
+      <point x="-93.85714285714266" y="81.0" />
+    </edge>
+    <edge source="Models.TagInformation" target="Models.TechTypes">
+      <point x="79.66666666666697" y="-92.0" />
+      <point x="5354.041666666666" y="632.0" />
+      <point x="5482.052092846586" y="632.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.MySqlLiteHelper" target="BussinessLogic.Common.DataHelper">
+      <point x="0.0" y="-203.0" />
+      <point x="4708.875" y="722.0" />
+      <point x="5906.911741969392" y="722.0" />
+      <point x="-26.4736842105267" y="236.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.ReceivingData" target="BussinessLogic.NFC.ImplementationPart.TagWriterActions.SettingsAction">
+      <point x="48.615384615384755" y="-93.0" />
+      <point x="6621.455345246507" y="4183.0" />
+      <point x="6389.21369047619" y="4183.0" />
+      <point x="6389.21369047619" y="2682.0" />
+      <point x="6383.718759513252" y="2682.0" />
+      <point x="159.33333333333303" y="214.0" />
+    </edge>
+    <edge source="BussinessLogic.Common.NavDrawer.NavDrawerListAdapter" target="BussinessLogic.Common.NavDrawer.NavDrawerItem">
+      <point x="0.0" y="-70.5" />
+      <point x="0.0" y="114.5" />
+    </edge>
+    <edge source="BussinessLogic.NFC.NdefReader.NdefReaderTask" target="Models.TechTypes">
+      <point x="64.875" y="-37.5" />
+      <point x="5698.114592846585" y="2682.0" />
+      <point x="5681.989592846585" y="2682.0" />
+      <point x="5681.989592846585" y="512.0" />
+      <point x="5509.852092846586" y="512.0" />
+      <point x="27.800000000000182" y="37.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.TakePicture" target="com.example.myapplication5.app.TouchView">
+      <point x="-144.85714285714312" y="-93.0" />
+      <point x="7273.011309523808" y="3432.0" />
+      <point x="6708.385426179919" y="3432.0" />
+      <point x="0.0" y="169.5" />
+    </edge>
+    <edge source="BussinessLogic.Common.ExcelReader" target="BussinessLogic.Common.ExcelWriter">
+      <point x="87.19999999999999" y="-71.0" />
+      <point x="434.5999999999999" y="3432.0" />
+      <point x="524.5" y="3432.0" />
+      <point x="85.5" y="71.0" />
+    </edge>
+    <edge source="BussinessLogic.Common.ExcelWriter" target="Models.Location">
+      <point x="-42.75" y="-71.0" />
+      <point x="396.25" y="2682.0" />
+      <point x="383.5" y="2682.0" />
+      <point x="383.5" y="722.0" />
+      <point x="430.81042617991943" y="722.0" />
+      <point x="33.80000000000018" y="37.0" />
+    </edge>
+    <edge source="BussinessLogic.SqlLiteHelper.SqlImplementation" target="BussinessLogic.SqlLiteHelper.MySqlLiteHelper">
+      <point x="89.83333333333303" y="-81.5" />
+      <point x="4943.718759513252" y="2512.0" />
+      <point x="4708.875" y="2512.0" />
+      <point x="0.0" y="203.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.IsoDepReader.IsoDepReaderTask" target="Models.TagInformation">
+      <point x="-52.5" y="-59.5" />
+      <point x="5792.239592846585" y="2432.0" />
+      <point x="5376.803571428571" y="2432.0" />
+      <point x="102.42857142857156" y="92.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.MapLocator.LocatorActivity" target="Models.Atmosphera">
+      <point x="-213.0625" y="-169.5" />
+      <point x="836.9318257104878" y="4263.0" />
+      <point x="179.48333333333358" y="4263.0" />
+      <point x="179.48333333333358" y="3432.0" />
+      <point x="41.166666666666515" y="3432.0" />
+      <point x="-82.33333333333348" y="81.5" />
+    </edge>
+    <edge source="Models.TagTechInfo" target="Models.TagDetails">
+      <point x="61.5" y="-81.0" />
+      <point x="859.5" y="562.0" />
+      <point x="4449.099711894204" y="562.0" />
+      <point x="-85.28571428571468" y="70.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.Carousel.CarouselActivity" target="com.example.myapplication5.app.Carousel.CarouselImageView">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="59.5" />
+    </edge>
+    <edge source="Models.TagInformation" target="Models.NdefMessageInformation">
+      <point x="-79.66666666666697" y="-92.0" />
+      <point x="5194.708333333332" y="542.0" />
+      <point x="4367.956854751347" y="542.0" />
+      <point x="62.57142857142844" y="81.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.PictureReceiver" target="BussinessLogic.SqlLiteHelper.SqlImplementation">
+      <point x="-14.375" y="-15.0" />
+      <point x="5147.010426179919" y="3412.0" />
+      <point x="4988.635426179919" y="3412.0" />
+      <point x="134.75" y="81.5" />
+    </edge>
+    <edge source="Models.Atmosphera" target="Models.Location">
+      <point x="0.0" y="-81.5" />
+      <point x="123.5" y="712.0" />
+      <point x="329.41042617991934" y="712.0" />
+      <point x="-67.59999999999991" y="37.0" />
+    </edge>
+    <edge source="BussinessLogic.ParsingPhoto.FilterImage" target="Models.RectangleParameters">
+      <point x="0.0" y="-26.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="BussinessLogic.NFC.ImplementationPart.TagWriterActions.TagWriterAction" target="BussinessLogic.NFC.ImplementationPart.TagWriterActions.SettingsAction">
+      <point x="0.0" y="-59.5" />
+      <point x="6154.96369047619" y="2682.0" />
+      <point x="6065.052092846586" y="2682.0" />
+      <point x="-159.33333333333303" y="214.0" />
+    </edge>
+    <edge source="com.example.myapplication5.app.TakePicture" target="BussinessLogic.Abstract.ICameraPreview">
+      <point x="144.85714285714312" y="-93.0" />
+      <point x="7562.725595238095" y="3432.0" />
+      <point x="7768.885426179919" y="3432.0" />
+      <point x="7768.885426179919" y="2682.0" />
+      <point x="7734.797023809523" y="2682.0" />
+      <point x="42.25" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.30000000000000004" x="3466.9999999999995" y="2980.333333333333" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+

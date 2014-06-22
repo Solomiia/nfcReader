@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="@drawable/fon"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+
+    <LinearLayout
+        android:layout_weight="0.5"
+        android:padding="5dip"
+        android:gravity="top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="text"
+            android:id="@+id/selected_item"
+            android:background="#1E1921"
+            android:textColor="#A85E4F"
+            android:textStyle="normal"
+            />
+
+    <BussinessLogic.ParsingPhoto.Carousel.Carousel
+        android:id="@+id/carousel"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:minHeight="350dp"
+        android:animationDuration="200"/>
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:layout_margin="5dp"
+        android:id="@+id/createNewOne"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Read New One"
+        android:background="#C0C0CCCC"/>
+
+
+
+</LinearLayout>
+

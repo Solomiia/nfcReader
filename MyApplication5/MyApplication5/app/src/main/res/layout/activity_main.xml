@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/fon"
+    tools:context="com.example.myapplication5.app.MainActivity"
+    android:orientation="vertical"
+    android:gravity="center_vertical|center_horizontal"
+   >
+
+    <TextView
+        android:text="@string/nfc_title"
+        style="@style/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+<com.example.myapplication5.app.DashboardLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <Button
+        android:id="@+id/btn1"
+        style="@style/DashboardButton"
+        android:text="@string/NfcReader"
+        android:drawableTop="@drawable/nfc1"
+         />
+
+
+    <Button
+        android:id="@+id/btn2"
+        style="@style/DashboardButton"
+        android:text="@string/GpsLocator"
+        android:drawableTop="@drawable/map"
+        />
+
+
+
+    <Button
+        android:id="@+id/btn3"
+        style="@style/DashboardButton"
+        android:text="@string/TagWriter"
+        android:drawableTop="@drawable/tagwriter"
+        />
+
+    <Button
+        android:id="@+id/btn4"
+        style="@style/DashboardButton"
+        android:text="@string/About"
+        android:drawableTop="@drawable/about"
+        />
+</com.example.myapplication5.app.DashboardLayout>
+</LinearLayout>

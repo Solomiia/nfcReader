@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application 5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonOk">Ok</string>
+    <string name="nfc_title">Reader</string>
+    <string name="string.connectToNFC">Connect to NFC</string>
+    <string name="save">Save</string>
+    <string name="skip">Skip</string>
+    <string name="takePicture">Take Picture</string>
+    <string name="NfcReader">NFC Reader</string>
+    <string name="SelectData">Select Saved Data</string>
+    <string name="GpsLocator">GPS Locator</string>
+    <string name="TagWriter">Tag Writer</string>
+    <string name="About">About</string>
+    <string name="servicedesc">ServiceDesc</string>
+    <string name="ChooseAnotherOne">Choose other one</string>
+    <string name="Write">Write</string>
+    <string name="FromContacts">From Contacts</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Choose the bank name</string>
+    <string name="Settings">Settings</string>
+    <string name="native_bank">Native bank</string>
+    <string name="bank_group">Bank Group</string>
+
+
+</resources>

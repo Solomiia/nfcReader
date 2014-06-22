@@ -1,0 +1,31 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion '19.1.0'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 15
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:+'
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.google.code.gson:gson:2.2.+'
+    compile files('libs/open_nfc.jar')
+    compile files('libs/card.io.jar')
+    compile files('libs/jxl.jar')
+    compile files('libs/android-google-maps-api8.jar')
+    compile files('libs/poi-3.5-FINAL.jar')
+    compile files('libs/simpleUMLCE_8205.jar')
+}

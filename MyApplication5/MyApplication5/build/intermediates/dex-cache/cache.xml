@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\open_nfc-68fba88f76fffa757ddfa0bcb78cc10d7f33b65e.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\app\libs\open_nfc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ab95a83b65ba90fbb6a00d722861023ed9658c49"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\jxl-9c7692a344522790ccbc3e393a75d521da7f4ebb.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\app\libs\jxl.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\poi-3.5-FINAL-c0d534f15cbc116cfced35a1b494f3783b276703.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\app\libs\poi-3.5-FINAL.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7722fd81aa02c05a985398fa4c9075e4c87e8a88"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\simpleUMLCE_8205-fcbb648359c23d74dc33e0c00d865f4046368df1.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\app\libs\simpleUMLCE_8205.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3cf23391e393181c86800143b9bc1146bcaa79a5"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\android-google-maps-api8-cc31d82fa2f153adf4b6edae39088aa6db9f0219.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\app\libs\android-google-maps-api8.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9327690ea81228471414e4e99da8851fb2628795"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-31949c321c30518ab7638b93b94a0359699956d8.jar"
+        jar="D:\android\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\classes-c8c1bd2eb7b35da661423479eb0aaedb1ffe2a40.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\classes-6e0d1a4ca793ff5bf24c83b8874d468f106c611d.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.4.52\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\card.io-3148adbc713be714d4fe51e9af6172e07ec27911.jar"
+        jar="D:\development\NfcReaderProject\MyApplication5\app\libs\card.io.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5bdd27d2f2852a9f36cd46ddc00ae2b300fbec5e"/>
+    <item
+        dex="D:\development\NfcReaderProject\MyApplication5\app\build\intermediates\pre-dexed\debug\gson-2.2.4-14dbd5427377bd83c91bf349c7acf9e4ce97ab0a.jar"
+        jar="C:\Users\Solomiia\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+
+</pre-dex-items>

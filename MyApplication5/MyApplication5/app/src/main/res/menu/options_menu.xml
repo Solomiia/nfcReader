@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search"
+          android:title="@string/search_title"
+          android:showAsAction="always"
+          android:actionViewClass="BussinessLogic.Common.ArrayAdapterSearchView" />
+
+    <item android:id="@+id/locator"
+        android:icon="@drawable/location"
+        android:showAsAction="always"
+        android:title="@string/GpsLocator"/>
+
+
+
+    <item android:id="@+id/settings"
+        android:icon="@drawable/dots_settings"
+        android:showAsAction="always"
+        android:title="@string/Settings"/>
+
+</menu>

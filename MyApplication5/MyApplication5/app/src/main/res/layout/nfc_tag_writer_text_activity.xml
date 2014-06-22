@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sticker_fon"
+    android:gravity="center_horizontal|center_vertical">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="5dp"
+        >
+
+
+        <EditText
+            android:id="@+id/target"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint=""
+            android:visibility="invisible"
+
+            android:minWidth="200dp"
+            />
+
+        <Button
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxHeight="30dp"
+            android:layout_marginLeft="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:background="#C0C0CCCC"
+            android:text="@string/FromContacts"
+            android:id="@+id/from_contacts"
+            android:visibility="gone"
+            ></Button>
+
+        </LinearLayout>
+
+    <EditText
+        android:id="@+id/subject"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint=""
+        android:layout_margin="5dp"
+
+
+
+        android:visibility="invisible"
+        />
+
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint=""
+        android:layout_margin="5dp"
+
+
+        android:visibility="invisible"
+        />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Write"
+        android:id="@+id/write"
+        android:background="#C0C0CCCC"
+        android:layout_margin="5dp"
+
+        />
+
+</LinearLayout>

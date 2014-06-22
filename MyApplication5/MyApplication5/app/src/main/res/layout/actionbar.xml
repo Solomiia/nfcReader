@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="fill_parent"
+    android:layout_height="48dp"
+    android:gravity="center"
+    android:background="#000000">
+
+    <AutoCompleteTextView
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:imeOptions="actionSearch"
+        android:inputType="textAutoComplete|textAutoCorrect"
+        android:textColor="#FFFFFF"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/locator"
+        android:src="@drawable/location"
+
+        android:layout_weight="1"
+        />
+
+    <ImageButton
+        android:id="@+id/settings"
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/dots_settings"
+        />
+
+</LinearLayout>

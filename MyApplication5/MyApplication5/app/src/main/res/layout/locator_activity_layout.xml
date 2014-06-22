@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:background="@drawable/fon">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/belowText">
+
+    <include layout="@layout/actionbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+         />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/aboveText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <!-- Name of ATM -->
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/thumbnail"
+            android:layout_toRightOf="@+id/thumbnail"
+            android:textColor="#040404"
+            android:textSize="15dip"
+            android:textStyle="bold"
+            android:typeface="sans" />
+
+        <!-- Location -->
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginTop="1dip"
+            android:layout_toRightOf="@+id/thumbnail"
+            android:textColor="#343434"
+            android:textSize="10dip" />
+
+
+    </LinearLayout>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/belowText"
+        android:name="com.google.android.gms.maps.MapFragment"/>
+
+
+
+
+</RelativeLayout>

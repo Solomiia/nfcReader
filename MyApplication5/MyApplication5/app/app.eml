@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="Android API 15 Platform" jdk_type="Android SDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/build/apk"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/assets"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/bundles"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/classes"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/dependency-cache"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/incremental"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/libs"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/manifests"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/res"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/symbols"/>
+		<excludeFolder url="file://$MODULE_DIR$/build/tmp"/>
+	</contentEntry>
+	<levels>
+		<level name="android-google-maps-api8" value="project"/>
+		<level name="open_nfc" value="project"/>
+		<level name="jxl" value="project"/>
+		<level name="simpleUMLCE_8205" value="project"/>
+		<level name="gson-2.2.4" value="project"/>
+		<level name="poi-3.5-FINAL" value="project"/>
+		<level name="support-v4-19.1.0" value="project"/>
+		<level name="19.1.0" value="project"/>
+		<level name="4.4.52" value="project"/>
+		<level name="card.io" value="project"/>
+	</levels>
+</component>

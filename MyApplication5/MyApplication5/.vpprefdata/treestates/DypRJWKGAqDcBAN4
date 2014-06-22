@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="DS4RJWKGAqDcBAAQ" projectPath="D:\development\NfcReaderProject\MyApplication5\untitled.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Business Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SysML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SoaML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Impact Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<SelectedPath>ClassDiagram,bLCRJWKGAqDcBANc</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0">
+		<ExpandedPath>ClassBrowser</ExpandedPath>
+	</TreeState>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+</ProjectTreeState>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: 4.4.52">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar" />
+  </library>
+  <library name="Gradle: poi-3.5-FINAL">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/poi-3.5-FINAL.jar" />
+  </library>
+  <library name="gson-2.2.4">
+    <archive path="C:/Users/Solomiia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
+  </library>
+  <library name="19.1.0">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar" />
+  </library>
+  <library name="poi-3.5-FINAL">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/poi-3.5-FINAL.jar" />
+  </library>
+  <library name="4.4.52">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar" />
+  </library>
+  <library name="Gradle: support-v4-19.1.0">
+    <archive path="D:/android/AndroidStudio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar" />
+  </library>
+  <library name="support-v4-19.1.0" />
+  <library name="Gradle: android-google-maps-api8">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/android-google-maps-api8.jar" />
+  </library>
+  <library name="android-google-maps-api8">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/android-google-maps-api8.jar" />
+  </library>
+  <library name="Gradle: 19.1.0">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar" />
+  </library>
+  <library name="open_nfc">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/open_nfc.jar" />
+  </library>
+  <library name="Gradle: jxl">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/jxl.jar" />
+  </library>
+  <library name="jxl">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/jxl.jar" />
+  </library>
+  <library name="Gradle: card.io">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/card.io.jar" />
+  </library>
+  <library name="play-services-4.4.52">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.google.android.gms/play-services/4.4.52/res" />
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar" />
+  </library>
+  <library name="card.io">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/card.io.jar" />
+  </library>
+  <library name="Gradle: open_nfc">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/open_nfc.jar" />
+  </library>
+  <library name="appcompat-v7-19.1.0">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar" />
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/res" />
+  </library>
+  <library name="Gradle: gson-2.2.4">
+    <archive path="C:/Users/Solomiia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
+  </library>
+  <library name="Gradle: simpleUMLCE_8205">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/simpleUMLCE_8205.jar" />
+  </library>
+  <library name="simpleUMLCE_8205">
+    <archive path="D:/development/NfcReaderProject/MyApplication5/app/libs/simpleUMLCE_8205.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/fon"
+    tools:context="com.example.myapplication5.app.NFCWriter.ActionQueryActivity"
+    android:orientation="vertical"
+    android:gravity="center_vertical|center_horizontal"
+    >
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        android:dividerHeight="10dp"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:longClickable="false"
+        android:clickable="false"
+        android:layout_margin="15dp"
+
+        >
+    </ListView>
+
+</LinearLayout>
